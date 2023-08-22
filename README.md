@@ -2,10 +2,10 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>My Resume </title>
 </head>  
 <body>
-    <p>Hey there I am Santiako , from India Aspire to be Web developer</p>
+  <h2>My Portfolios</h2>
+    <p>Hey there I am Santiako , from India . I aspire to be Web developer as well as graphics designer</p>
     <p>I am much more interested in the Web development and Graphis designing</p>
   
   
@@ -14,8 +14,6 @@
       <li> BTech In Telecommunication</li>
       <li> M Tech in VLSI and Signal Processing</li>
     </ul>
-
-  
     <h3> Work Experience</h3>
     <ul>
       <li>I work as an Field Engineer in Publi Sector Unit</li>
