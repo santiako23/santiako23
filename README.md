@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>  
 <body>
-  <h2>My Portfolios</h2>
+  <h1>My Portfolios</h1>
     <p>Hey there I am Santiako , from India . I aspire to be Web developer as well as graphics designer</p>
     <p>I am much more interested in the Web development and Graphis designing</p>
   
@@ -23,6 +23,11 @@
   <ol>
     <li></li>
   </ol>
+  <h3>Certifications and Skills</h3>
+  <ul>
+    <li></li>
+  </ul>
+  
 </body>
 
 </html>
